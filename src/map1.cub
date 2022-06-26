@@ -1,0 +1,14 @@
+R 1920 1080
+F 220,100,0
+C 225,30,0
+NO ./textures/barrel.xpm
+SO ./textures/barrel.xpm
+WE ./textures/barrel.xpm
+EA ./textures/barrel.xpm
+S  ./textures/barrel.xpm
+
+
+
+111
+101
+111
